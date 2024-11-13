@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="textButtonBTN">Идём дальше</string>
+    <string name="textTitleTV">Регистрация</string>
+    <string name="hintNameET">Логин</string>
+    <string name="hintPassET">Пароль</string>
+    <string name="textEndBTN">Конец домашке!</string>
+</resources>
